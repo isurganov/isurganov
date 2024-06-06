@@ -16,10 +16,4 @@
       </p>
 - <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/ivansurganov/
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
