@@ -1,7 +1,6 @@
 ### Hi there, I'm Ivan Surganov 👋 
 
-- 📚 I'm currently a student at school 21 student (L'école42 campus in Moscow)
-- 🍏 I’m learning IOS development
+- 🍏 I’m IOS developer
 - 🧑‍💻 I’m looking to work on real-world projects and contribute to open-source projects with great people
 
 - 🔨 My stack:
